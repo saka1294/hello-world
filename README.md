@@ -1,2 +1,2 @@
 # hello-world
-for test
+This is a test project for study github.
